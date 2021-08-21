@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LearnerYme.
-- 👀 I’m interested in machine learning and any other programming stuff.
-- 🌱 I’m currently learning High Energy Physics and Python and C++ and ...
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 That's all.
+- 🌏 Coming from China.
+- :octocat: Currently learning High Energy Physics, Python and C++.
+- 🏳️ Trying to unify the style of my codes. (given up).
+- 💪 Making efforts to imporve my English and C++ skills right now.
 
 <!---
 LearnerYme/LearnerYme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
