@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LearnerYme.
 - 🌏 Coming from China.
 - 🌍 Currently stay in Deutschland.
-- :octocat: Currently learning High Energy Physics, Python and C++.
-- 💪 Making efforts to imporve my English and C++ skills right now.
+- :octocat: Python, C++
+- 🇬🇧English, 🇩🇪Deutsch, 🇨🇳中文
 
 <!---
 LearnerYme/LearnerYme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
