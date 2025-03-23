@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LearnerYme.
-- 🌏 Coming from China.
-- 🌍 Currently stay in Deutschland.
+- HEP Data Analysis
 - :octocat: Python, C++
 - 🇬🇧English, 🇩🇪Deutsch, 🇨🇳中文
 
